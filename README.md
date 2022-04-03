@@ -2,7 +2,7 @@
 Step into the lightning-blue crocs of Fladnag the Wizard and escape the monster-infested Cave! <br>
 Play in full screen for best experience.<br>
 **A bit of lore:** <br>
-Fladnag, a lightning wizard, wears crocs to insulate himself from the ground!<br>
+Fladnag, a lightning wizard, wears rubber crocs to insulate himself from the ground!<br>
 That is, when he lowers himself to the ground, as he is usually too arrogant for walking!<br>
 Also, Fladnag is ambidextrous and loves to show it off, watch closely as he swiftly switches his staff from one hand to the other!
 
