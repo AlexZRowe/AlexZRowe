@@ -1,5 +1,5 @@
 [Fladnag's Adventure](https://alexzrowe.github.io/Flagnags-Adventure/) <br>
-Step into the lightning-blue crocs of Fladnag the Wizard and escape the monster-infested Cave! <br>
+Step into the electric-blue crocs of Fladnag the Wizard and escape the monster-infested Cave! <br>
 Play in full screen for best experience.<br>
 **A bit of lore:** <br>
 Fladnag, a lightning wizard, wears rubber crocs to insulate himself from the ground!<br>
