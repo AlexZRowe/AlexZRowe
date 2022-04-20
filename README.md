@@ -10,6 +10,9 @@ Also, Fladnag is ambidextrous and loves to show it off, watch closely as he swif
 
 [Zookeeper '22](https://alexzrowe.github.io/Zookeeper-22/)
 
+[SkyRace](https://alexzrowe.github.io/SkyRace/) <br>
+Move with arrows or WASD and jump with SPACE, try to make it to the end as fast as possible!
+
 [Obi the Monkey](https://alexzrowe.github.io/Obi-the-Monkey/) <br>
 Click to throw bananas, make your way through the forest to defeat the enemies within.
 
