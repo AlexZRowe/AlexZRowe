@@ -1,4 +1,4 @@
-**Here are some of the games I have worked on, enjoy!**
+**Here are some of the games I have worked as part of a group, enjoy!**
 
 [Fladnag's Adventure](https://alexzrowe.github.io/Flagnags-Adventure/) <br>
 Step into the electric-blue crocs of Fladnag the Wizard and escape the monster-infested Cave! <br>
