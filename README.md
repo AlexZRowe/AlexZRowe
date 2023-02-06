@@ -3,7 +3,7 @@
 [Fladnag's Adventure](https://alexzrowe.github.io/Flagnags-Adventure/) <br>
 Step into the electric-blue crocs of Fladnag the Wizard and escape the monster-infested Cave! <br>
 Play in full screen for best experience.<br>
-~~To skip to the excting climax, collect the secret stack of pages hidden in a rock at the bottom of the map alongside a very special Easter egg.~~<br>
+~~To skip to the exciting climax, collect the secret stack of pages hidden in a rock at the bottom of the map alongside a very special Easter egg.~~<br>
 **A bit of lore:** <br>
 Fladnag, a lightning wizard, wears rubber crocs to insulate himself from the ground!<br>
 That is, when he bothers to lower himself to the ground, as he is usually too arrogant for walking!<br>
